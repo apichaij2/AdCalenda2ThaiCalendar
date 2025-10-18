@@ -1,4 +1,12 @@
 function AdCalenda2ThaiCalendar(AD_date){
+// Project: AdCalenda2ThaiCalendar
+// Licese: Open source and licensed under MIT license.
+// Language: Google Apps Script (JavaScript)
+// Author: Apichai Jantarmas (apichaij2@gmail.com)
+// Version: 1.0
+// Date: 18-October-2025
+// Descriptions: Translate date from Anno Domini (A.D.) to Thai Calendar date.
+//
 // ตารางข้อมูล ของวันที่ ๑ มกราคม ระหว่าง พ.ศ. ๒๔๐๐ - ๒๖๙๙ (ค.ศ. 1857 - 2156)
 // ตัวเลขข้อมูล แบ่งย่อย เป็น 3 ชุด (AB) (C) (D)
 // (AB) : ข้างขึ้น (1-15) + ข้างแรม (16-29)
