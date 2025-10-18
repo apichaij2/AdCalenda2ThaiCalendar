@@ -45,3 +45,8 @@ Examples:<br>
 05/14/1990  วันจันทร์ที่ ๑๔ เดือนพฤษภาคม พ.ศ. ๒๕๓๓ แรม ๖ ค่ำ เดือนหก(๖) ปีมะเมีย<br>
 06/16/1989  วันศุกร์ที่ ๑๖ เดือนมิถุนายน พ.ศ. ๒๕๓๒ ขึ้น ๑๓ ค่ำ เดือนเจ็ด(๗) ปีมะเส็ง<br>
 07/24/2002  วันพุธที่ ๒๔ เดือนกรกฎาคม พ.ศ. ๒๕๔๕ ขึ้น ๑๕ ค่ำ เดือนแปดหลัง(๘๘) ปีมะเมีย<br>
+
+
+Demo:<br>
+Google Sheet : https://docs.google.com/spreadsheets/d/1uQ6OF-IRoo_Ouib5RWBkiiickrgCauFsZzbORZTMOSc/edit?usp=drive_link <br>
+<br>
