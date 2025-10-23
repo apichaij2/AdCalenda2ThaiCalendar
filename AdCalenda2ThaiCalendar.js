@@ -141,7 +141,7 @@ function AdCalenda2ThaiCalendar(AD_date){
     }
     const k_date_TH_start = new Date(Date_new_year.getTime() - (k_date_TH * millisecondsPerDay ))  // วันที่ ของ วันเริ่มต้นปีไทย คือ ขึ้น 1 ค่ำ เดือนอ้าย
     Distant_D_date  = ( AD_date -  k_date_TH_start)/millisecondsPerDay;  // ระยะห่างของ [ต้องการทราบ] กับ วันเริ่มต้นปีไทย คือ ขึ้น 1 ค่ำ เดือนอ้าย
-    i_moon_phases =  Distant_D_date;
+    i_moon_phases =  parseInt(Distant_D_date);
     
 // iTHmonth = เดือนไทย ,  i_moon_phases = จำนวนวัน(ข้างขึ้น/ข้างแรม)
     for ( iTHmonth = 1 ; iTHmonth <= 18 ; iTHmonth++ ) {
